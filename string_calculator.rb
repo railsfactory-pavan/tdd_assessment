@@ -65,4 +65,4 @@ end
 
 puts "Result..."
 obj = StringCalculator.new
-puts obj.calculate_the_string("hii hello")
+puts obj.calculate_the_string("/n,hii,/n,2,3,/n,4,5,6,/n,hello,/n,10")
