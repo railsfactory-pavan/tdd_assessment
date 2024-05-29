@@ -1,8 +1,7 @@
 class StringCalculator
-	def calculate_the_string(string_value, numbers)
+	def self.calculate_the_string(string_value)
 	end
 end
 
-str = StringCalculator.new
-
-puts str.calculate_the_string
+puts "Result..."
+puts StringCalculator.calculate_the_string("string_value")
