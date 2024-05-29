@@ -1,3 +1,5 @@
+require 'debug'
+
 class StringCalculator
 	NEGATIVES_MSG = "Negatives not allowed"
 	START_OF_CUSTOMDELIM_INDEX = 3
